@@ -1,0 +1,14 @@
+# Data (not tracked: third-party provider terms)
+*.xlsx
+*.csv
+data/
+
+# MATLAB
+*.asv
+*.mat
+slprj/
+*.autosave
+
+# OS / editors
+.DS_Store
+Thumbs.db
