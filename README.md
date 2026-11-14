@@ -74,4 +74,4 @@ financial-network-identification/
 
 ## Authors
 
-Group project by three students of the MSc in Financial Engineering, University of Padova. My contribution: [describe here what you did].
+Group project by three students of the MSc in Financial Engineering, University of Padova. 
